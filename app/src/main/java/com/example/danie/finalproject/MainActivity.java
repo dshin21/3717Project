@@ -1,12 +1,9 @@
 package com.example.danie.finalproject;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.TextView;
+import android.support.v7.app.AppCompatActivity;
 
 import com.example.danie.finalproject.Database.DB;
-
-import java.io.IOException;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -15,6 +12,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate( savedInstanceState );
         setContentView( R.layout.activity_main );
 
-
+        DB db = new DB();
+        for ( int i = 0; i < db.BUSSTOPS.busStops.size(); i++ ) {
+            System.out.println( db.BUSSTOPS.busStops.get( i ).getBusStopName() );
+            System.out.println( db.BUSSTOPS.busStops.get( i ).getLat() );
+            System.out.println( db.BUSSTOPS.busStops.get( i ).getLng() );
+        }
     }
 }
