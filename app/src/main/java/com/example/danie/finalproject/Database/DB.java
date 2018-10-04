@@ -8,7 +8,9 @@ import com.mongodb.client.MongoDatabase;
 import org.bson.Document;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class DB {
     public BusStops BUSSTOPS;
@@ -16,16 +18,22 @@ public class DB {
     public DB() {
         MongoClient mongoClient = MongoClients.create( "mongodb://localhost:27017" );
         MongoDatabase db = mongoClient.getDatabase( "test" );
-        MongoCollection<Document> collection = db.getCollection( "Bus_Stops" );
-        List<Document> documents = collection.find().into( new ArrayList<Document>() );
 
-        BUSSTOPS = new BusStops( new ArrayList<BusStop>() );
+        List<Document> documents = getCorrespondingCollection( db, "Bus_Stops" );
+        BUSSTOPS = new BusStops( new HashMap<Integer, BusStop>() );
         makeObjects( documents, BUSSTOPS.busStops );
     }
 
-    private <T> void makeObjects( List<Document> documents, ArrayList<T> list ) {
+    private List<Document> getCorrespondingCollection( MongoDatabase db, String collectionName ) {
+        MongoCollection<Document> collection = db.getCollection( collectionName );
+        return collection.find().into( new ArrayList<Document>() );
+    }
+
+    private <T> void makeObjects( List<Document> documents, Map<Integer, T> list ) {
+        int i = 0;
         for ( Document document : documents ) {
-            list.add( (T) convertBusStop( document ) );
+            list.put( i, (T) convertBusStop( document ) );
+            i++;
         }
     }
 
@@ -43,7 +51,5 @@ public class DB {
             System.out.println( db.BUSSTOPS.busStops.get( i ).getLat() );
             System.out.println( db.BUSSTOPS.busStops.get( i ).getLng() );
         }
-
-
     }
 }
