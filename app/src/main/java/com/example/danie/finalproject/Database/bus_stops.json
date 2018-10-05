@@ -1,0 +1,1312 @@
+[
+    {
+        "stopName": "Southbound E Columbia St @ 600 Block",
+        "lat": -122.89261699951857,
+        "lng": 49.23754399984546
+    },
+    {
+        "stopName": "Eastbound 6th Ave @ 18 St",
+        "lat": -122.94034200057325,
+        "lng": 49.20228600043646
+    },
+    {
+        "stopName": "22nd St Station @ Bay 2",
+        "lat": -122.9486089999628,
+        "lng": 49.20002000018258
+    },
+    {
+        "stopName": "Eastbound Ewen Ave @ McGillivray Place",
+        "lat": -122.94079100009016,
+        "lng": 49.1885800003624
+    },
+    {
+        "stopName": "Braid Station @ Bay 4",
+        "lat": -122.88264199962732,
+        "lng": 49.23338100022441
+    },
+    {
+        "stopName": "Southbound 6th St @ Royal Ave",
+        "lat": -122.91123699980507,
+        "lng": 49.205830000055855
+    },
+    {
+        "stopName": "Southbound Hwy 91A Onramp @ Howes St",
+        "lat": -122.9494529996232,
+        "lng": 49.18823199967817
+    },
+    {
+        "stopName": "Northbound Hwy 91A Onramp @ Howes St",
+        "lat": -122.94727200043842,
+        "lng": 49.18793200024735
+    },
+    {
+        "stopName": "22nd St Station @ Bay 1",
+        "lat": -122.94834500002865,
+        "lng": 49.20011199972467
+    },
+    {
+        "stopName": "22nd Street Station @ Unloading Only",
+        "lat": -122.94971100048478,
+        "lng": 49.199857000095804
+    },
+    {
+        "stopName": "Northbound 6th St @ 5th Ave",
+        "lat": -122.91875099936479,
+        "lng": 49.21201199965362
+    },
+    {
+        "stopName": "Eastbound 6th Ave @ 6th St",
+        "lat": -122.9197680005349,
+        "lng": 49.21337299997247
+    },
+    {
+        "stopName": "Northbound Renaissance Square @ Quayside Dr",
+        "lat": -122.92457400057602,
+        "lng": 49.19998799979762
+    },
+    {
+        "stopName": "Southbound Ross Dr @ 200 Block",
+        "lat": -122.8996560005209,
+        "lng": 49.21395799983114
+    },
+    {
+        "stopName": "Northbound Ross Dr @ 200 Block",
+        "lat": -122.89982700020815,
+        "lng": 49.21421700012035
+    },
+    {
+        "stopName": "Northbound 6th St @ Columbia St",
+        "lat": -122.9081679998053,
+        "lng": 49.20360100022221
+    },
+    {
+        "stopName": "Northbound 6th St @ 4th Ave",
+        "lat": -122.91679999939913,
+        "lng": 49.21045399980599
+    },
+    {
+        "stopName": "Southbound Howes St @ Howes St Ramp",
+        "lat": -122.94762399937005,
+        "lng": 49.18705200040154
+    },
+    {
+        "stopName": "Westbound 6th Ave @ 8th St",
+        "lat": -122.92355800008983,
+        "lng": 49.21148499976323
+    },
+    {
+        "stopName": "New Westminster Station @ Bay 10",
+        "lat": -122.91433900059306,
+        "lng": 49.201085000138114
+    },
+    {
+        "stopName": "New Westminster Station @ Bay 9",
+        "lat": -122.91199700039293,
+        "lng": 49.20147200027324
+    },
+    {
+        "stopName": "New Westminster Station @ Bay 2",
+        "lat": -122.9121819995654,
+        "lng": 49.20099100031817
+    },
+    {
+        "stopName": "New Westminster Station @ Bay 4",
+        "lat": -122.91285399983566,
+        "lng": 49.20087999991618
+    },
+    {
+        "stopName": "New Westminster Station @ Bay 5",
+        "lat": -122.91311599950566,
+        "lng": 49.20105999991579
+    },
+    {
+        "stopName": "New Westminster Station @ Bay 7",
+        "lat": -122.91353499980713,
+        "lng": 49.20137899992839
+    },
+    {
+        "stopName": "New Westminster Station @ Bay 8",
+        "lat": -122.91343000036073,
+        "lng": 49.20157099977062
+    },
+    {
+        "stopName": "New Westminster Station @ Unload Only",
+        "lat": -122.9127850006226,
+        "lng": 49.20080700042252
+    },
+    {
+        "stopName": "Westbound E Royal Ave @ McBride Blvd",
+        "lat": -122.89852199955018,
+        "lng": 49.21274799975205
+    },
+    {
+        "stopName": "Eastbound E Royal Ave @ McBride Blvd",
+        "lat": -122.89843500042846,
+        "lng": 49.21270100028157
+    },
+    {
+        "stopName": "Westbound Ewen Ave @ Derwent Way",
+        "lat": -122.93413099948843,
+        "lng": 49.19154899999464
+    },
+    {
+        "stopName": "Westbound 8th Ave @ 6th St",
+        "lat": -122.92428600007233,
+        "lng": 49.21590699995213
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ 6th St",
+        "lat": -122.9234429996373,
+        "lng": 49.21620500033546
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ 8th St",
+        "lat": -122.92707900033996,
+        "lng": 49.214252000226445
+    },
+    {
+        "stopName": "Westbound Boyd St @ Gifford St",
+        "lat": -122.95282999940758,
+        "lng": 49.185125999698194
+    },
+    {
+        "stopName": "Eastbound Boyd St @ Gifford St",
+        "lat": -122.9520479996483,
+        "lng": 49.18534399964314
+    },
+    {
+        "stopName": "Westbound Quayside Dr @ Reliance Court",
+        "lat": -122.9176750000498,
+        "lng": 49.19905799991502
+    },
+    {
+        "stopName": "Westbound Agnes St @ Elliot St",
+        "lat": -122.9039539994189,
+        "lng": 49.20813300029362
+    },
+    {
+        "stopName": "Westbound Ovens Ave @ Colborne St",
+        "lat": -122.91525299947442,
+        "lng": 49.22199299992956
+    },
+    {
+        "stopName": "Eastbound Cumberland St @ Richmond St",
+        "lat": -122.8983699999314,
+        "lng": 49.22048699965284
+    },
+    {
+        "stopName": "Eastbound Cumberland St @ Miner St",
+        "lat": -122.89544299943924,
+        "lng": 49.22043400035515
+    },
+    {
+        "stopName": "Westbound Cumberland St  @ Sapper St",
+        "lat": -122.89475700051727,
+        "lng": 49.22053799961616
+    },
+    {
+        "stopName": "Southbound Gifford St @ Ewen Ave",
+        "lat": -122.95137799932726,
+        "lng": 49.18381899974957
+    },
+    {
+        "stopName": "Eastbound Salter St @ Gifford St",
+        "lat": -122.94869699989361,
+        "lng": 49.18190099974269
+    },
+    {
+        "stopName": "Southbound 8th St @ 10 Ave",
+        "lat": -122.93113499934047,
+        "lng": 49.21654900019376
+    },
+    {
+        "stopName": "Southbound 8th St @ 8th Ave",
+        "lat": -122.92715599960506,
+        "lng": 49.21349299987726
+    },
+    {
+        "stopName": "Southbound 8th St @ 6th Ave",
+        "lat": -122.92533300011351,
+        "lng": 49.21207299975594
+    },
+    {
+        "stopName": "Southbound 8th St @ 5th Ave",
+        "lat": -122.92202600044513,
+        "lng": 49.20950600005996
+    },
+    {
+        "stopName": "Southbound 8th St @ 4th Ave",
+        "lat": -122.92002400010199,
+        "lng": 49.207914999631214
+    },
+    {
+        "stopName": "Southbound 8th St @ 3rd Ave",
+        "lat": -122.91819900036468,
+        "lng": 49.20646499991765
+    },
+    {
+        "stopName": "Southbound 8th St @ Queens Ave",
+        "lat": -122.91619299947098,
+        "lng": 49.20486899994682
+    },
+    {
+        "stopName": "Southbound 8th St @ Royal Ave",
+        "lat": -122.91496499982006,
+        "lng": 49.20388200008501
+    },
+    {
+        "stopName": "Northbound 8th St @ Royal Ave",
+        "lat": -122.91488499949907,
+        "lng": 49.2040500003224
+    },
+    {
+        "stopName": "Northbound 8th St @ Queens Ave",
+        "lat": -122.91660000047403,
+        "lng": 49.205415999881005
+    },
+    {
+        "stopName": "Northbound 8th St @ 3rd Ave",
+        "lat": -122.91853799958145,
+        "lng": 49.20695300032572
+    },
+    {
+        "stopName": "Northbound 8th St @ 4th Ave",
+        "lat": -122.92004399937657,
+        "lng": 49.208150000187544
+    },
+    {
+        "stopName": "Northbound 8th St @ 5th Ave",
+        "lat": -122.92243600061171,
+        "lng": 49.21006100029523
+    },
+    {
+        "stopName": "Northbound 8th St @ 6th Ave",
+        "lat": -122.92429699973185,
+        "lng": 49.211540999968754
+    },
+    {
+        "stopName": "Northbound 8th St @ 7th Ave",
+        "lat": -122.92586100033934,
+        "lng": 49.21278699967543
+    },
+    {
+        "stopName": "Northbound 8th St @ 8th Ave",
+        "lat": -122.92787399966483,
+        "lng": 49.21433100029444
+    },
+    {
+        "stopName": "Northbound 8th St @ 10 Ave",
+        "lat": -122.93062099994219,
+        "lng": 49.21642200041797
+    },
+    {
+        "stopName": "Eastbound Marine Dr @ Trapp Rd",
+        "lat": -122.95462599962411,
+        "lng": 49.19814700042366
+    },
+    {
+        "stopName": "Eastbound Trapp Rd @ Marine Dr",
+        "lat": -122.95333100046192,
+        "lng": 49.197949999942814
+    },
+    {
+        "stopName": "Eastbound 6th Ave @ 16 St",
+        "lat": -122.93666799982458,
+        "lng": 49.204260999682255
+    },
+    {
+        "stopName": "Eastbound 6th Ave @ 14 St",
+        "lat": -122.93329600021228,
+        "lng": 49.206089000251076
+    },
+    {
+        "stopName": "Southbound 12 St @ 6th Ave",
+        "lat": -122.93019600046514,
+        "lng": 49.207235999663475
+    },
+    {
+        "stopName": "Southbound 12 St @ 5th Ave",
+        "lat": -122.92850000055272,
+        "lng": 49.20590900015979
+    },
+    {
+        "stopName": "Southbound 12 St @ 4th Ave",
+        "lat": -122.92672600033828,
+        "lng": 49.20449600019916
+    },
+    {
+        "stopName": "Southbound 12 St @ Queens Ave",
+        "lat": -122.92318500029769,
+        "lng": 49.201819999716754
+    },
+    {
+        "stopName": "Westbound Columbia St @ 10 St",
+        "lat": -122.91623400056413,
+        "lng": 49.20022000013055
+    },
+    {
+        "stopName": "Westbound Columbia St @ Royal Ave",
+        "lat": -122.91903600051738,
+        "lng": 49.20039599981554
+    },
+    {
+        "stopName": "Westbound Marine Way @ 20 St",
+        "lat": -122.94629899962618,
+        "lng": 49.19996600022183
+    },
+    {
+        "stopName": "22nd St Station @ Bay 8",
+        "lat": -122.95016700023967,
+        "lng": 49.19952200031663
+    },
+    {
+        "stopName": "Westbound Marine Dr @ 7th Ave",
+        "lat": -122.95360999958478,
+        "lng": 49.19819499966841
+    },
+    {
+        "stopName": "Westbound Trapp Rd @ Marine Dr",
+        "lat": -122.95371700060494,
+        "lng": 49.19784600040394
+    },
+    {
+        "stopName": "22nd St Station @ Bay 4",
+        "lat": -122.94909699975034,
+        "lng": 49.19985700008985
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ 23 St",
+        "lat": -122.95297199955255,
+        "lng": 49.200284000170484
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ 22 St",
+        "lat": -122.95179599997391,
+        "lng": 49.200901999999424
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ 21 St",
+        "lat": -122.94987799973417,
+        "lng": 49.20193800005944
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ 20 St",
+        "lat": -122.9478939999872,
+        "lng": 49.203013000423454
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ 19 St",
+        "lat": -122.94570599933667,
+        "lng": 49.20419599967611
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ 18 St",
+        "lat": -122.94347299994546,
+        "lng": 49.20539900014324
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ 16 St",
+        "lat": -122.94027799936548,
+        "lng": 49.207123000115836
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ 14 St",
+        "lat": -122.93687399971888,
+        "lng": 49.208969000007805
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ 12 St",
+        "lat": -122.9337139999784,
+        "lng": 49.21066000013176
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ 10 St",
+        "lat": -122.93007100035446,
+        "lng": 49.21264099962774
+    },
+    {
+        "stopName": "Eastbound 6th Ave @ 8th St",
+        "lat": -122.92342599947612,
+        "lng": 49.2114060002812
+    },
+    {
+        "stopName": "Northbound 6th St @ 6th Ave",
+        "lat": -122.92075099934588,
+        "lng": 49.21361199960904
+    },
+    {
+        "stopName": "Northbound 6th St @ 7th Ave",
+        "lat": -122.92213300026333,
+        "lng": 49.21469999958171
+    },
+    {
+        "stopName": "Northbound 6th St @ 8th Ave",
+        "lat": -122.92426299991557,
+        "lng": 49.21636900040177
+    },
+    {
+        "stopName": "Southbound 6th St @ 10 Ave",
+        "lat": -122.92733500000418,
+        "lng": 49.21861699995601
+    },
+    {
+        "stopName": "Southbound 6th St @ 8th Ave",
+        "lat": -122.92352100004352,
+        "lng": 49.215580999988056
+    },
+    {
+        "stopName": "Southbound 6th St @ 7th Ave",
+        "lat": -122.9218489997103,
+        "lng": 49.2142599996717
+    },
+    {
+        "stopName": "Westbound 6th Ave @ 6th St",
+        "lat": -122.92089499931309,
+        "lng": 49.21292700041353
+    },
+    {
+        "stopName": "Westbound 8th Ave @ 8th St",
+        "lat": -122.92809000012014,
+        "lng": 49.2138320002459
+    },
+    {
+        "stopName": "Westbound 8th Ave @ 10 St",
+        "lat": -122.93093600012409,
+        "lng": 49.21230600043501
+    },
+    {
+        "stopName": "Westbound 8th Ave @ 12 St",
+        "lat": -122.93404099955514,
+        "lng": 49.210641000373876
+    },
+    {
+        "stopName": "Westbound 8th Ave @ 14 St",
+        "lat": -122.9376129996575,
+        "lng": 49.20869699984038
+    },
+    {
+        "stopName": "Westbound 8th Ave @ 16 St",
+        "lat": -122.94098499968148,
+        "lng": 49.206854000353786
+    },
+    {
+        "stopName": "Westbound 8th Ave @ 18 St",
+        "lat": -122.94442700007016,
+        "lng": 49.20502300006028
+    },
+    {
+        "stopName": "Westbound 8th Ave @ 19 St",
+        "lat": -122.94646600039287,
+        "lng": 49.20392899978836
+    },
+    {
+        "stopName": "Westbound 8th Ave @ 20 St",
+        "lat": -122.94876099966937,
+        "lng": 49.20269400029293
+    },
+    {
+        "stopName": "Westbound 8th Ave @ 22 St",
+        "lat": -122.95250799949093,
+        "lng": 49.20066600004969
+    },
+    {
+        "stopName": "Eastbound Columbia St @ 6th St",
+        "lat": -122.90723799974771,
+        "lng": 49.203433999655154
+    },
+    {
+        "stopName": "Columbia Station @ Bay 2",
+        "lat": -122.90491699958945,
+        "lng": 49.20466199993899
+    },
+    {
+        "stopName": "Eastbound Columbia St @ 200 Block",
+        "lat": -122.9025720000246,
+        "lng": 49.205925999743215
+    },
+    {
+        "stopName": "Eastbound E 8th Ave @ McBride Blvd",
+        "lat": -122.9109379997016,
+        "lng": 49.22285499966648
+    },
+    {
+        "stopName": "Southbound Cumberland St @ E 8th Ave",
+        "lat": -122.90807300005923,
+        "lng": 49.223886000337956
+    },
+    {
+        "stopName": "Southbound Cumberland St @ E 7th Ave",
+        "lat": -122.90568199964417,
+        "lng": 49.22195700014818
+    },
+    {
+        "stopName": "Eastbound Cumberland St @ Beth St",
+        "lat": -122.90309599960295,
+        "lng": 49.22079199958629
+    },
+    {
+        "stopName": "Eastbound Cumberland St @ Glenbrook Dr",
+        "lat": -122.89974599943007,
+        "lng": 49.22050700039074
+    },
+    {
+        "stopName": "Southbound Richmond St @ Seymour Court",
+        "lat": -122.8984939997942,
+        "lng": 49.21980400039417
+    },
+    {
+        "stopName": "Southbound Richmond St @ Miner St",
+        "lat": -122.89655499986156,
+        "lng": 49.21813199967878
+    },
+    {
+        "stopName": "Westbound Columbia St @ 200 Block",
+        "lat": -122.90221599964255,
+        "lng": 49.206351000082975
+    },
+    {
+        "stopName": "Columbia Station @ Bay 1",
+        "lat": -122.90579599983721,
+        "lng": 49.20443400034261
+    },
+    {
+        "stopName": "Westbound Columbia St @ 6th St",
+        "lat": -122.90836300066718,
+        "lng": 49.203027999780694
+    },
+    {
+        "stopName": "Eastbound Quayside Dr @ Laguna Court",
+        "lat": -122.92257600029593,
+        "lng": 49.19990599977736
+    },
+    {
+        "stopName": "Eastbound Quayside Dr @ Reliance Court",
+        "lat": -122.91808000061329,
+        "lng": 49.19896299969686
+    },
+    {
+        "stopName": "Northbound Derwent Way @ Ewen Ave",
+        "lat": -122.93374200055598,
+        "lng": 49.192070999716115
+    },
+    {
+        "stopName": "Eastbound Duncan St @ 400 Block",
+        "lat": -122.93488499991521,
+        "lng": 49.19516300010836
+    },
+    {
+        "stopName": "Southbound Furness St @ Ewen Ave",
+        "lat": -122.92726900042095,
+        "lng": 49.194613999650784
+    },
+    {
+        "stopName": "Westbound Ewen Ave @ Fenton St",
+        "lat": -122.93611600057051,
+        "lng": 49.19070800032226
+    },
+    {
+        "stopName": "Westbound Ewen Ave @ Wood St",
+        "lat": -122.93991899977189,
+        "lng": 49.189177999772724
+    },
+    {
+        "stopName": "Westbound Ewen Ave @ McGillivray Place",
+        "lat": -122.94161599941772,
+        "lng": 49.188467000140804
+    },
+    {
+        "stopName": "Westbound Ewen Ave @ Howes St",
+        "lat": -122.9472589999444,
+        "lng": 49.18608700025323
+    },
+    {
+        "stopName": "Westbound Ewen Ave @ Jardine St",
+        "lat": -122.94979800049357,
+        "lng": 49.18503200042494
+    },
+    {
+        "stopName": "Northbound Howes St @ Ewen Ave",
+        "lat": -122.94697500001853,
+        "lng": 49.18668000036462
+    },
+    {
+        "stopName": "22nd St Station @ Bay 5",
+        "lat": -122.94935800023217,
+        "lng": 49.199791999614014
+    },
+    {
+        "stopName": "Eastbound Ewen Ave @ Howes St",
+        "lat": -122.94621799962441,
+        "lng": 49.18641400039761
+    },
+    {
+        "stopName": "Eastbound Ewen Ave @ Lawrence St",
+        "lat": -122.94392299970544,
+        "lng": 49.18736399982369
+    },
+    {
+        "stopName": "Eastbound Ewen Ave @ Wood St",
+        "lat": -122.93863999976543,
+        "lng": 49.18955500038662
+    },
+    {
+        "stopName": "Eastbound Ewen Ave @ Johnston St",
+        "lat": -122.93481099944549,
+        "lng": 49.19117400040477
+    },
+    {
+        "stopName": "Southbound 6th St @ 6th Ave",
+        "lat": -122.91995900065815,
+        "lng": 49.21275000036673
+    },
+    {
+        "stopName": "Southbound 6th St @ 5th Ave",
+        "lat": -122.91836499996228,
+        "lng": 49.21148199958975
+    },
+    {
+        "stopName": "Southbound 6th St @ 4th Ave",
+        "lat": -122.9163559998966,
+        "lng": 49.2098810003803
+    },
+    {
+        "stopName": "Southbound 6th St @ 3rd Ave",
+        "lat": -122.91442499960664,
+        "lng": 49.208345000162794
+    },
+    {
+        "stopName": "Southbound 6th St @ Queens Ave",
+        "lat": -122.91251399966785,
+        "lng": 49.20682999988554
+    },
+    {
+        "stopName": "Eastbound Agnes St @ 4th St",
+        "lat": -122.90702000052772,
+        "lng": 49.20632299964235
+    },
+    {
+        "stopName": "Eastbound Agnes St @ Merrivale St",
+        "lat": -122.90537099959289,
+        "lng": 49.2072150002378
+    },
+    {
+        "stopName": "Northbound 6th St @ Royal Ave",
+        "lat": -122.91123799958523,
+        "lng": 49.20605299959771
+    },
+    {
+        "stopName": "Northbound 6th St @ Queens Ave",
+        "lat": -122.91285899937809,
+        "lng": 49.20732300037942
+    },
+    {
+        "stopName": "Northbound 6th St @ 3rd Ave",
+        "lat": -122.91481900060927,
+        "lng": 49.208884999870904
+    },
+    {
+        "stopName": "Westbound Royal Ave @ 1st St",
+        "lat": -122.90337499969611,
+        "lng": 49.209727000214265
+    },
+    {
+        "stopName": "Northbound 2nd St @ Clinton Place",
+        "lat": -122.90537400060857,
+        "lng": 49.20970999979861
+    },
+    {
+        "stopName": "Northbound 2nd St @ Queens Ave",
+        "lat": -122.90660400019233,
+        "lng": 49.210697999981946
+    },
+    {
+        "stopName": "Northbound 2nd St @ 3rd Ave",
+        "lat": -122.90862600036421,
+        "lng": 49.21229799963384
+    },
+    {
+        "stopName": "Northbound 2nd St @ 4th Ave",
+        "lat": -122.91052699956529,
+        "lng": 49.21381700036134
+    },
+    {
+        "stopName": "Northbound 2nd St @ 5th Ave",
+        "lat": -122.91250200041522,
+        "lng": 49.21538100006252
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ 2nd St",
+        "lat": -122.91719399994284,
+        "lng": 49.219577000210414
+    },
+    {
+        "stopName": "Westbound 8th Ave @ 2nd St",
+        "lat": -122.9182269993452,
+        "lng": 49.2191510002848
+    },
+    {
+        "stopName": "Westbound 8th Ave @ 4th St",
+        "lat": -122.9217050001668,
+        "lng": 49.217284000086316
+    },
+    {
+        "stopName": "Eastbound 6th Ave @ 4th St",
+        "lat": -122.91740000002831,
+        "lng": 49.214668000010434
+    },
+    {
+        "stopName": "Southbound 2nd St @ 6th Ave",
+        "lat": -122.91389999974712,
+        "lng": 49.216232000182
+    },
+    {
+        "stopName": "Southbound 2nd St @ 5th Ave",
+        "lat": -122.91220500033575,
+        "lng": 49.21488099958695
+    },
+    {
+        "stopName": "Southbound 2nd St @ 4th Ave",
+        "lat": -122.91028900026089,
+        "lng": 49.21336499976018
+    },
+    {
+        "stopName": "Southbound 2nd St @ 3rd Ave",
+        "lat": -122.90836000018433,
+        "lng": 49.21182999985003
+    },
+    {
+        "stopName": "Southbound 12 St @ London St",
+        "lat": -122.93671300065951,
+        "lng": 49.212448999665085
+    },
+    {
+        "stopName": "Southbound 12 St @ 8th Ave",
+        "lat": -122.93394700051023,
+        "lng": 49.21024099997219
+    },
+    {
+        "stopName": "Southbound 12 St @ 7th Ave",
+        "lat": -122.93206300012724,
+        "lng": 49.208747999831495
+    },
+    {
+        "stopName": "Northbound 12 St @ Queens Ave",
+        "lat": -122.92305899942228,
+        "lng": 49.20192199993017
+    },
+    {
+        "stopName": "Northbound 12 St @ 3rd Ave",
+        "lat": -122.92515699936976,
+        "lng": 49.203450999891196
+    },
+    {
+        "stopName": "Northbound 12 St @ 4th Ave",
+        "lat": -122.92700800058849,
+        "lng": 49.20492099964038
+    },
+    {
+        "stopName": "Northbound 12 St @ 5th Ave",
+        "lat": -122.92895499965977,
+        "lng": 49.206465000321586
+    },
+    {
+        "stopName": "Northbound 12 St @ 6th Ave",
+        "lat": -122.93143799939519,
+        "lng": 49.208439000313454
+    },
+    {
+        "stopName": "Northbound 12 St @ 7th Ave",
+        "lat": -122.93238599949247,
+        "lng": 49.209188999951415
+    },
+    {
+        "stopName": "Northbound 12 St @ 8th Ave",
+        "lat": -122.93441600035115,
+        "lng": 49.21081900035979
+    },
+    {
+        "stopName": "Northbound 12 St @ Dublin St",
+        "lat": -122.93629199950283,
+        "lng": 49.21230800012365
+    },
+    {
+        "stopName": "Northbound 12 St @ 10 Ave",
+        "lat": -122.93754499983642,
+        "lng": 49.213305999640276
+    },
+    {
+        "stopName": "Southbound E Columbia St @ Braid St",
+        "lat": -122.89282000000597,
+        "lng": 49.23113199956271
+    },
+    {
+        "stopName": "Southbound E Columbia St @ Sherbrooke St",
+        "lat": -122.89292299936969,
+        "lng": 49.22756899988345
+    },
+    {
+        "stopName": "Westbound E Columbia St @ McBride Blvd",
+        "lat": -122.89611999964852,
+        "lng": 49.21272699964712
+    },
+    {
+        "stopName": "Northbound E Columbia St @ Sherbrooke St",
+        "lat": -122.89271600060732,
+        "lng": 49.228132999651905
+    },
+    {
+        "stopName": "Northbound E Columbia St @ Braid St",
+        "lat": -122.89260800064801,
+        "lng": 49.23190499982018
+    },
+    {
+        "stopName": "Northbound E Columbia St @ Alberta St",
+        "lat": -122.89281299981069,
+        "lng": 49.223415999601244
+    },
+    {
+        "stopName": "Northbound E Columbia St @ Keary St",
+        "lat": -122.89276100055122,
+        "lng": 49.226165999585135
+    },
+    {
+        "stopName": "Northbound E Columbia St @ Cedar St",
+        "lat": -122.8926529999606,
+        "lng": 49.23045799987527
+    },
+    {
+        "stopName": "Northbound E Columbia St @ Holmes St",
+        "lat": -122.89245899957352,
+        "lng": 49.2361269996781
+    },
+    {
+        "stopName": "Southbound E Columbia St @ Holmes St",
+        "lat": -122.8926940004321,
+        "lng": 49.235385999739115
+    },
+    {
+        "stopName": "Southbound E Columbia St @ Keary St",
+        "lat": -122.89297599935148,
+        "lng": 49.22530100017963
+    },
+    {
+        "stopName": "Southbound E Columbia St @ Alberta St",
+        "lat": -122.89303200064671,
+        "lng": 49.22332499957187
+    },
+    {
+        "stopName": "Southbound E Columbia St @ Richmond St",
+        "lat": -122.89407799956763,
+        "lng": 49.21618499993944
+    },
+    {
+        "stopName": "22nd St Station @ Bay 3",
+        "lat": -122.94885300042493,
+        "lng": 49.199941000189675
+    },
+    {
+        "stopName": "Eastbound 6th Ave @ 12 St",
+        "lat": -122.93015600001216,
+        "lng": 49.207765999705835
+    },
+    {
+        "stopName": "Eastbound 6th Ave @ 10 St",
+        "lat": -122.92649399937496,
+        "lng": 49.20974400008889
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ 4th St",
+        "lat": -122.92095100064623,
+        "lng": 49.21755200008321
+    },
+    {
+        "stopName": "Eastbound 8th Ave @ Park Crescent",
+        "lat": -122.91351800025517,
+        "lng": 49.221478000413185
+    },
+    {
+        "stopName": "Eastbound E 8th Ave @ Cumberland St",
+        "lat": -122.90807399955611,
+        "lng": 49.22443699992505
+    },
+    {
+        "stopName": "Eastbound E 8th Ave @ York St",
+        "lat": -122.90631899973715,
+        "lng": 49.22536499977513
+    },
+    {
+        "stopName": "Eastbound E 8th Ave @ Chilliwack St",
+        "lat": -122.9024929997496,
+        "lng": 49.22738900001579
+    },
+    {
+        "stopName": "Eastbound E 8th Ave @ Richmond St",
+        "lat": -122.89784100013155,
+        "lng": 49.22984900013088
+    },
+    {
+        "stopName": "Eastbound E 8th Ave @ Buchanan Ave",
+        "lat": -122.89589399942288,
+        "lng": 49.230861999866164
+    },
+    {
+        "stopName": "Eastbound Braid St @ E Columbia St",
+        "lat": -122.89213999937087,
+        "lng": 49.231543999764135
+    },
+    {
+        "stopName": "Eastbound Braid St @ Fader St",
+        "lat": -122.88969199948515,
+        "lng": 49.231518000061726
+    },
+    {
+        "stopName": "Westbound Braid St @ Rousseau St",
+        "lat": -122.88683099941807,
+        "lng": 49.2316490002963
+    },
+    {
+        "stopName": "Westbound Braid St @ Fader St",
+        "lat": -122.89059999959336,
+        "lng": 49.231654000153036
+    },
+    {
+        "stopName": "Westbound Braid St @ E Columbia St",
+        "lat": -122.89381400050307,
+        "lng": 49.23179799978164
+    },
+    {
+        "stopName": "Westbound E 8th Ave @ Buchanan Ave",
+        "lat": -122.89659200045571,
+        "lng": 49.23064699967816
+    },
+    {
+        "stopName": "Westbound E 8th Ave @ Richmond St",
+        "lat": -122.89926200065898,
+        "lng": 49.22923599957914
+    },
+    {
+        "stopName": "Westbound E 8th Ave @ Cherry St",
+        "lat": -122.90159700063616,
+        "lng": 49.228005000373265
+    },
+    {
+        "stopName": "Westbound E 8th Ave @ William St",
+        "lat": -122.90495099931353,
+        "lng": 49.22622900005044
+    },
+    {
+        "stopName": "Westbound E 8th Ave @ York St",
+        "lat": -122.90699699951558,
+        "lng": 49.225150000373404
+    },
+    {
+        "stopName": "Westbound E 8th Ave @ Cumberland St",
+        "lat": -122.90897999977089,
+        "lng": 49.224097000026354
+    },
+    {
+        "stopName": "Westbound 8th Ave @ McBride Blvd",
+        "lat": -122.91295799973612,
+        "lng": 49.222005999786525
+    },
+    {
+        "stopName": "Westbound 6th Ave @ 10 St",
+        "lat": -122.92722799971448,
+        "lng": 49.20949200036762
+    },
+    {
+        "stopName": "Westbound 6th Ave @ 12 St",
+        "lat": -122.93104799994177,
+        "lng": 49.20744300015474
+    },
+    {
+        "stopName": "Westbound 6th Ave @ 14 St",
+        "lat": -122.93394199980197,
+        "lng": 49.20588100000129
+    },
+    {
+        "stopName": "Westbound 6th Ave @ 16 St",
+        "lat": -122.93747699982518,
+        "lng": 49.20397299991605
+    },
+    {
+        "stopName": "Westbound 6th Ave @ 18 St",
+        "lat": -122.9403249996363,
+        "lng": 49.20243599998027
+    },
+    {
+        "stopName": "Eastbound 6th Ave @ 2nd St",
+        "lat": -122.91369100067341,
+        "lng": 49.2166810000782
+    },
+    {
+        "stopName": "Eastbound 6th Ave @ 1st St",
+        "lat": -122.91134700000636,
+        "lng": 49.21790599997136
+    },
+    {
+        "stopName": "Eastbound E 6th Ave @ McBride Blvd",
+        "lat": -122.90786299976111,
+        "lng": 49.219777999599806
+    },
+    {
+        "stopName": "Eastbound E 6th Ave @ Glenbrook Dr",
+        "lat": -122.90574099941851,
+        "lng": 49.22092600039465
+    },
+    {
+        "stopName": "Northbound Richmond St @ Cumberland St",
+        "lat": -122.89868700068483,
+        "lng": 49.220933000185596
+    },
+    {
+        "stopName": "Northbound Richmond St @ Alberta St",
+        "lat": -122.89861599967152,
+        "lng": 49.22402900012828
+    },
+    {
+        "stopName": "Eastbound Hospital St @ Richmond St",
+        "lat": -122.8980059998315,
+        "lng": 49.22646099981215
+    },
+    {
+        "stopName": "Eastbound Hospital St @ E Columbia St",
+        "lat": -122.89395699978287,
+        "lng": 49.226413000026334
+    },
+    {
+        "stopName": "Westbound Hospital St @ E Columbia St",
+        "lat": -122.89338400026769,
+        "lng": 49.226514000350434
+    },
+    {
+        "stopName": "Westbound Hospital St @ Blair Ave",
+        "lat": -122.89781299953827,
+        "lng": 49.226558999957156
+    },
+    {
+        "stopName": "Southbound Richmond St @ Shiles St",
+        "lat": -122.89871500061288,
+        "lng": 49.22533900019684
+    },
+    {
+        "stopName": "Southbound Richmond St @ Alberta St",
+        "lat": -122.89879899987632,
+        "lng": 49.223040000394995
+    },
+    {
+        "stopName": "Westbound Cumberland St @ Glenbrook Dr",
+        "lat": -122.89996899970664,
+        "lng": 49.22061399999035
+    },
+    {
+        "stopName": "Westbound 6th Ave @ McBride Blvd",
+        "lat": -122.9089839999115,
+        "lng": 49.2193480002698
+    },
+    {
+        "stopName": "Westbound 6th Ave @ 1st St",
+        "lat": -122.912449999498,
+        "lng": 49.21745800028844
+    },
+    {
+        "stopName": "Westbound 6th Ave @ 2nd St",
+        "lat": -122.91453799962416,
+        "lng": 49.21632699996442
+    },
+    {
+        "stopName": "Westbound 6th Ave @ 4th St",
+        "lat": -122.91805100007012,
+        "lng": 49.21443699980309
+    },
+    {
+        "stopName": "Westbound 6th Ave @ 8th St",
+        "lat": -122.9232640000174,
+        "lng": 49.21165099993543
+    },
+    {
+        "stopName": "22nd St Station @ Bay 6",
+        "lat": -122.94961500000731,
+        "lng": 49.1997270004007
+    },
+    {
+        "stopName": "22nd St Station @ Bay 7",
+        "lat": -122.9499010003773,
+        "lng": 49.19963299974302
+    },
+    {
+        "stopName": "22nd Street Station Platform 2",
+        "lat": -122.94894000057899,
+        "lng": 49.200020999737426
+    },
+    {
+        "stopName": "New Westminster Station Platform 2",
+        "lat": -122.91257300009087,
+        "lng": 49.20140600019338
+    },
+    {
+        "stopName": "Columbia Station Platform 2",
+        "lat": -122.9061180000497,
+        "lng": 49.20477799982856
+    },
+    {
+        "stopName": "Columbia Station Platform 1",
+        "lat": -122.90618700042462,
+        "lng": 49.204859000075714
+    },
+    {
+        "stopName": "New Westminster Station Platform 1",
+        "lat": -122.9126289995229,
+        "lng": 49.20145899971242
+    },
+    {
+        "stopName": "22nd Street Station Platform 1",
+        "lat": -122.94897099959596,
+        "lng": 49.2000830000749
+    },
+    {
+        "stopName": "Braid Station @ Bay 2",
+        "lat": -122.88308000017385,
+        "lng": 49.23302999978071
+    },
+    {
+        "stopName": "Braid Station @ Bay 3",
+        "lat": -122.88302400011652,
+        "lng": 49.233210000192365
+    },
+    {
+        "stopName": "Braid Station @ Bay 1",
+        "lat": -122.88313700037683,
+        "lng": 49.23285499991062
+    },
+    {
+        "stopName": "Braid Station @ Bay 5",
+        "lat": -122.88255600022767,
+        "lng": 49.23314499969777
+    },
+    {
+        "stopName": "Braid Station @ Bay 6",
+        "lat": -122.88250100008324,
+        "lng": 49.23296799992141
+    },
+    {
+        "stopName": "Braid Station Platform 1",
+        "lat": -122.88283100013973,
+        "lng": 49.233235999681156
+    },
+    {
+        "stopName": "Braid Station Platform 2",
+        "lat": -122.8827179993356,
+        "lng": 49.23323600015327
+    },
+    {
+        "stopName": "Sapperton Station Platform 1",
+        "lat": -122.88942400043734,
+        "lng": 49.22470000021718
+    },
+    {
+        "stopName": "Sapperton Station Platform 2",
+        "lat": -122.8893110005423,
+        "lng": 49.22462099990446
+    },
+    {
+        "stopName": "Southbound 6th St @ Agnes St",
+        "lat": -122.9101410004371,
+        "lng": 49.20496100035708
+    },
+    {
+        "stopName": "Columbia Station @ Bay 3",
+        "lat": -122.90559700007142,
+        "lng": 49.20492999960121
+    },
+    {
+        "stopName": "Eastbound Agnes St @ Elliot St",
+        "lat": -122.9035119996837,
+        "lng": 49.20822999965938
+    },
+    {
+        "stopName": "Westbound Quayside Dr @ 1200 Block",
+        "lat": -122.92064699955594,
+        "lng": 49.19924399983276
+    },
+    {
+        "stopName": "Northbound Jamieson Court @ Richmond St",
+        "lat": -122.89572000031802,
+        "lng": 49.21605900024913
+    },
+    {
+        "stopName": "Eastbound Ovens Ave @ Colborne St",
+        "lat": -122.91505900040822,
+        "lng": 49.221940999707
+    },
+    {
+        "stopName": "Westbound Queens Park Care Centre @ Blackberry Dr",
+        "lat": -122.90163200053856,
+        "lng": 49.216676000057866
+    },
+    {
+        "stopName": "Northbound 1st St @ Agnes St",
+        "lat": -122.90204000042866,
+        "lng": 49.20945499966734
+    },
+    {
+        "stopName": "Northbound Cumberland St @ E 7th Ave",
+        "lat": -122.90669899949737,
+        "lng": 49.222954000014695
+    },
+    {
+        "stopName": "Northbound Richmond St @ Miner St",
+        "lat": -122.89639199934331,
+        "lng": 49.21838700012173
+    },
+    {
+        "stopName": "Southbound 4th St @ Agnes St",
+        "lat": -122.90700200044168,
+        "lng": 49.20586199964693
+    },
+    {
+        "stopName": "Southbound 1st St @ Agnes St",
+        "lat": -122.90201599934953,
+        "lng": 49.209293999591004
+    },
+    {
+        "stopName": "Southbound 2nd St @ Queens Ave",
+        "lat": -122.9069430001922,
+        "lng": 49.21070200033615
+    },
+    {
+        "stopName": "Westbound E 6th Ave @ Glenbrook Dr",
+        "lat": -122.90625000051871,
+        "lng": 49.22080999959866
+    },
+    {
+        "stopName": "Westbound 8th Ave @ New Westminster Secondary",
+        "lat": -122.92661299938631,
+        "lng": 49.214693000129834
+    },
+    {
+        "stopName": "22nd Street Station",
+        "lat": -122.94898000037365,
+        "lng": 49.20005900008323
+    },
+    {
+        "stopName": "New Westminster Station",
+        "lat": -122.91261399992985,
+        "lng": 49.20143700024762
+    },
+    {
+        "stopName": "Columbia Station",
+        "lat": -122.90617500044513,
+        "lng": 49.20483000028411
+    },
+    {
+        "stopName": "Sapperton Station",
+        "lat": -122.88939300010858,
+        "lng": 49.22466199971721
+    },
+    {
+        "stopName": "Braid Station",
+        "lat": -122.88280000059994,
+        "lng": 49.23324400009778
+    }
+]

@@ -3,7 +3,8 @@ const fs = require("fs");
 const MongoClient = require('mongodb').MongoClient;
 //
 
-const url = "mongodb://localhost:27017/";
+// const url = "mongodb://localhost:27017/";
+const url = "mongodb://admin:admin123@ds223343.mlab.com:23343/comp3717";
 
 
 let BUS_STOPS = fs.readFileSync('JSONs/BUS_STOPS.json');
@@ -16,14 +17,18 @@ for (let i = 0; i < rawData.features.length; i++) {
     myobj[i] = {"stopName": stopName, "lat": coordinates[0], "lng": coordinates[1]};
 }
 
-MongoClient.connect(url, function (err, db) {
-    if (err) throw err;
-    let dbo = db.db("test");
+let data = JSON.stringify(myobj);
+fs.writeFileSync('bus_stops.json', data);
 
-    dbo.collection("Bus_Stops").insertMany(myobj, function (err, res) {
-        if (err) throw err;
-        db.close();
-    });
-});
+
+// MongoClient.connect(url, function (err, db) {
+//     if (err) throw err;
+//     let dbo = db.db("comp3717");
+//
+//     dbo.collection("Bus_Stops").insertMany(myobj, function (err, res) {
+//         if (err) throw err;
+//         db.close();
+//     });
+// });
 
 //TODO: do the rest of the API calls
