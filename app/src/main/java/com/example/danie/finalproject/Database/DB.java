@@ -1,57 +1,33 @@
 package com.example.danie.finalproject.Database;
 
-import com.mongodb.client.MongoClient;
-import com.mongodb.client.MongoClients;
-import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoDatabase;
-
-import org.bson.Document;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import android.os.AsyncTask;
 
 public class DB {
     public BusStops BUSSTOPS;
 
     public DB() {
-        MongoClient mongoClient = MongoClients.create( "mongodb://localhost:27017" );
-        MongoDatabase db = mongoClient.getDatabase( "test" );
-
-        List<Document> documents = getCorrespondingCollection( db, "Bus_Stops" );
-        BUSSTOPS = new BusStops( new HashMap<Integer, BusStop>() );
-        makeObjects( documents, BUSSTOPS.busStops );
+        new getJSONObject().execute();
     }
 
-    private List<Document> getCorrespondingCollection( MongoDatabase db, String collectionName ) {
-        MongoCollection<Document> collection = db.getCollection( collectionName );
-        return collection.find().into( new ArrayList<Document>() );
-    }
-
-    private <T> void makeObjects( List<Document> documents, Map<Integer, T> list ) {
-        int i = 0;
-        for ( Document document : documents ) {
-            list.put( i, (T) convertBusStop( document ) );
-            i++;
+    public class getJSONObject extends AsyncTask<Void, Void, Void> {
+        @Override
+        protected void onPreExecute() {
+            super.onPreExecute();
         }
-    }
 
-    private BusStop convertBusStop( Document document ) {
-        String busStopName = document.get( "stopName" ).toString();
-        double lat = Double.parseDouble( document.get( "lat" ).toString() );
-        double lng = Double.parseDouble( document.get( "lng" ).toString() );
-        return new BusStop( busStopName, lat, lng );
-    }
+        @Override
+        protected Void doInBackground(Void... arg0) {
+            HttpHandler sh = new HttpHandler();
+            String jsonStr;
+            jsonStr = sh.makeServiceCall("https://api.mlab.com/api/1/databases/comp3717/collections/Bus_Stops?apiKey=Q3kcLrAb4liR46OZJ46LzwhScsXPYvLn");
 
-    public static void main( String[] args ) {
-        DB db = new DB();
-        for ( int i = 0; i < db.BUSSTOPS.busStops.size(); i++ ) {
-            System.out.println( db.BUSSTOPS.busStops.get( i ).getBusStopName() );
-            System.out.println( db.BUSSTOPS.busStops.get( i ).getLat() );
-            System.out.println( db.BUSSTOPS.busStops.get( i ).getLng() );
+
+            return null;
+        }
+
+        @Override
+        protected void onPostExecute(Void result) {
+            super.onPostExecute(result);
         }
     }
 }
-
-//TODO: since permission is denied, try on mlab

@@ -1,8 +1,5 @@
 package com.example.danie.finalproject.Database;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class BusStop {
     private String busStopName;
     private double lat;
