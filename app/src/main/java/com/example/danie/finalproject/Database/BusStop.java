@@ -5,17 +5,17 @@ public class BusStop {
     private double lat;
     private double lng;
 
-    public BusStop( String busStopName, double lat, double lng ) {
+    public BusStop(String busStopName, double lat, double lng) {
         this.busStopName = busStopName;
         this.lat = lat;
         this.lng = lng;
     }
 
-    public String getBusStopName() {
+    public String getName() {
         return busStopName;
     }
 
-    public void setBusStopName( String busStopName ) {
+    public void setName(String busStopName) {
         this.busStopName = busStopName;
     }
 
@@ -23,7 +23,7 @@ public class BusStop {
         return lat;
     }
 
-    public void setLat( double lat ) {
+    public void setLat(double lat) {
         this.lat = lat;
     }
 
@@ -31,7 +31,7 @@ public class BusStop {
         return lng;
     }
 
-    public void setLng( double lng ) {
+    public void setLng(double lng) {
         this.lng = lng;
     }
 }

@@ -1,11 +1,11 @@
 package com.example.danie.finalproject.Database;
 
-import java.util.Map;
+import java.util.ArrayList;
 
 public class BusStops {
-    public Map<Integer, BusStop> busStops;
+    public static ArrayList<BusStop> busStops = new ArrayList<>();
+    public static boolean isReady = false;
 
-    public BusStops( Map<Integer, BusStop> busStops ) {
-        this.busStops = busStops;
+    public BusStops() {
     }
 }

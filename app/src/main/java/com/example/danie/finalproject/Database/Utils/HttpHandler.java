@@ -1,4 +1,4 @@
-package com.example.danie.finalproject.Database;
+package com.example.danie.finalproject.Database.Utils;
 
 import android.util.Log;
 

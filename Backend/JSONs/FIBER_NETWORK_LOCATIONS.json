@@ -1,0 +1,2566 @@
+{
+	"name" : "FIBER_NETWORK_LOCATIONS",
+	"type" : "FeatureCollection",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90376258269693, 49.21445708124028 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Queen's Park Arenex",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.90376258269693",
+				"Y" : "49.21445708124028"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90571264788036, 49.214426881254994 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Queen's Park Arena",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.90571264788036",
+				"Y" : "49.214426881254994"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90732112125308, 49.214541322960955 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "CNW Greenhouse",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.90732112125308",
+				"Y" : "49.214541322960955"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90790558373804, 49.21601405796388 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Spray Pool Concession",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.90790558373804",
+				"Y" : "49.21601405796388"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90791037117943, 49.21736409841524 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Centennial Lodge",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.90791037117943",
+				"Y" : "49.21736409841524"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90813426611321, 49.22010135286527 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Fire Hall #1",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.90813426611321",
+				"Y" : "49.22010135286527"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90716260157163, 49.221505284973404 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Canada Games Pool",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.90716260157163",
+				"Y" : "49.221505284973404"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90623495115875, 49.22137164047007 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Centennial Community Center",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.90623495115875",
+				"Y" : "49.22137164047007"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91690347932132, 49.22221313037885 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Engineering Operations Work's Yard",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.91690347932132",
+				"Y" : "49.22221313037885"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91651849496871, 49.22282004157811 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "CNW Electrical Office",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.91651849496871",
+				"Y" : "49.22282004157811"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92586464540823, 49.21522961248732 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Moody Park Ice Arena",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.92586464540823",
+				"Y" : "49.21522961248732"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92701973317371, 49.21515229420249 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Massey Theatre",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.92701973317371",
+				"Y" : "49.21515229420249"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9280464368587, 49.21101529126102 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Moody Park Pool",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.9280464368587",
+				"Y" : "49.21101529126102"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92650283284316, 49.211724351541015 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Century House/Parks Admin",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.92650283284316",
+				"Y" : "49.211724351541015"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92563341560732, 49.2119832622879 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Century House/Parks Admin",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.92563341560732",
+				"Y" : "49.2119832622879"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92242053036878, 49.21152518434362 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "New Westminster Library",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.92242053036878",
+				"Y" : "49.21152518434362"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90811536803288, 49.2036714212386 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "CNW Police Station",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.90811536803288",
+				"Y" : "49.2036714212386"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90614623370992, 49.20756408972605 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "New Westminster Museum and Archives",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.90614623370992",
+				"Y" : "49.20756408972605"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91148569239905, 49.20138028295632 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Anvil Center",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.91148569239905",
+				"Y" : "49.20138028295632"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91089097214964, 49.20654567186031 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Co-Location Room",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2015",
+				"UNITS" : " ",
+				"X" : "-122.91089097214964",
+				"Y" : "49.20654567186031"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91056831316173, 49.22227782042283 ]
+			},
+			"properties" : {
+				"FTYPE" : "SCHOOLS",
+				"NAME" : "Justice Institute of BC",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2017",
+				"UNITS" : " ",
+				"X" : "-122.91056831316173",
+				"Y" : "49.22227782042283"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9286760803851, 49.21573235769239 ]
+			},
+			"properties" : {
+				"FTYPE" : "SCHOOLS",
+				"NAME" : "New Westminster Secondary",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2017",
+				"UNITS" : " ",
+				"X" : "-122.9286760803851",
+				"Y" : "49.21573235769239"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91279681306881, 49.203412960769484 ]
+			},
+			"properties" : {
+				"FTYPE" : "SCHOOLS",
+				"NAME" : "Douglas College",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2017",
+				"UNITS" : " ",
+				"X" : "-122.91279681306881",
+				"Y" : "49.203412960769484"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89098479242178, 49.22604590895285 ]
+			},
+			"properties" : {
+				"FTYPE" : "HOSPITAL",
+				"NAME" : "Royal Columbian Hospital",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2017",
+				"UNITS" : " ",
+				"X" : "-122.89098479242178",
+				"Y" : "49.22604590895285"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91300860255832, 49.20089263342037 ]
+			},
+			"properties" : {
+				"FTYPE" : "BUSINESS",
+				"NAME" : "Degelder",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2016",
+				"UNITS" : " ",
+				"X" : "-122.91300860255832",
+				"Y" : "49.20089263342037"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91151170274937, 49.20018324026565 ]
+			},
+			"properties" : {
+				"FTYPE" : "BUSINESS",
+				"NAME" : "River Market",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2017",
+				"UNITS" : " ",
+				"X" : "-122.91151170274937",
+				"Y" : "49.20018324026565"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91861892686258, 49.21260543448993 ]
+			},
+			"properties" : {
+				"FTYPE" : "BUSINESS",
+				"NAME" : "Sixth St and Sixth Ave",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2017",
+				"UNITS" : " ",
+				"X" : "-122.91861892686258",
+				"Y" : "49.21260543448993"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92270679806391, 49.21239945986435 ]
+			},
+			"properties" : {
+				"FTYPE" : "BUSINESS",
+				"NAME" : "Royal City Mall",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2017",
+				"UNITS" : " ",
+				"X" : "-122.92270679806391",
+				"Y" : "49.21239945986435"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93678337410694, 49.21013209889281 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Fire Hall #2",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2018",
+				"UNITS" : " ",
+				"X" : "-122.93678337410694",
+				"Y" : "49.21013209889281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94810518678186, 49.18634766330748 ]
+			},
+			"properties" : {
+				"FTYPE" : "CIVIC FACILITIES",
+				"NAME" : "Fire Hall #3",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2017",
+				"UNITS" : " ",
+				"X" : "-122.94810518678186",
+				"Y" : "49.18634766330748"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.94082620173691, 49.186370439499186 ]
+			},
+			"properties" : {
+				"FTYPE" : "SCHOOLS",
+				"NAME" : "Queensborough Middle School",
+				"ADDRESS" : " ",
+				"CONSTR_YR" : "2018",
+				"UNITS" : " ",
+				"X" : "-122.94082620173691",
+				"Y" : "49.186370439499186"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91308558441753, 49.20142007879065 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE MARINUS",
+				"ADDRESS" : "888 CARNARVON ST",
+				"CONSTR_YR" : "2016",
+				"UNITS" : "240",
+				"X" : "-122.91308558441753",
+				"Y" : "49.20142007879065"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91368001966411, 49.20107780353023 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "AZURE 2",
+				"ADDRESS" : "898 CARNARVON ST",
+				"CONSTR_YR" : "2016",
+				"UNITS" : "204",
+				"X" : "-122.91368001966411",
+				"Y" : "49.20107780353023"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91423625432127, 49.2007676262583 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "AZURE 1",
+				"ADDRESS" : "898 CARNARVON ST",
+				"CONSTR_YR" : "2016",
+				"UNITS" : "204",
+				"X" : "-122.91423625432127",
+				"Y" : "49.2007676262583"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91999427159386, 49.212059985681364 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE VICEROY",
+				"ADDRESS" : "608 BELMONT",
+				"CONSTR_YR" : "2016",
+				"UNITS" : "168",
+				"X" : "-122.91999427159386",
+				"Y" : "49.212059985681364"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9149984276225, 49.201085920881454 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE FRASER",
+				"ADDRESS" : "55 TENTH ST",
+				"CONSTR_YR" : "2016",
+				"UNITS" : "100",
+				"X" : "-122.9149984276225",
+				"Y" : "49.201085920881454"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90191995488726, 49.20873840397826 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "VICTORIA HOUSE",
+				"ADDRESS" : "120 AGNES ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "80",
+				"X" : "-122.90191995488726",
+				"Y" : "49.20873840397826"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91469455931184, 49.20132519859321 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE ROYAL",
+				"ADDRESS" : "828 AGNES ST",
+				"CONSTR_YR" : "2016",
+				"UNITS" : "99",
+				"X" : "-122.91469455931184",
+				"Y" : "49.20132519859321"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91036738804586, 49.2014183872923 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE INTERURBAN",
+				"ADDRESS" : "14 BEGBIE ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "158",
+				"X" : "-122.91036738804586",
+				"Y" : "49.2014183872923"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90437383230515, 49.20606437883793 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "CARNARVON TERRACE",
+				"ADDRESS" : "312 CARNARVON ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "57",
+				"X" : "-122.90437383230515",
+				"Y" : "49.20606437883793"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90641017148431, 49.20508929071353 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "CARNARVON PLACE",
+				"ADDRESS" : "420 CARNARVON ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "62",
+				"X" : "-122.90641017148431",
+				"Y" : "49.20508929071353"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90751949920167, 49.205139723138245 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE IMPERIAL",
+				"ADDRESS" : "425 CARNARVON ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "100",
+				"X" : "-122.90751949920167",
+				"Y" : "49.205139723138245"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90808861397078, 49.204919277196595 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "HILLSIDE PLACE",
+				"ADDRESS" : "509 CARNARVON ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "56",
+				"X" : "-122.90808861397078",
+				"Y" : "49.204919277196595"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91085071573808, 49.20267288001334 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "7-2-0 CARNARVON",
+				"ADDRESS" : "720 CARNARVON ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "80",
+				"X" : "-122.91085071573808",
+				"Y" : "49.20267288001334"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91188227081199, 49.20272296134455 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "737 CARNARVON",
+				"ADDRESS" : "737 CARNARVON ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "106",
+				"X" : "-122.91188227081199",
+				"Y" : "49.20272296134455"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.911603088914, 49.20238071699674 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "RUSSELL RESIDENCE",
+				"ADDRESS" : "740 CARNARVON ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "55",
+				"X" : "-122.911603088914",
+				"Y" : "49.20238071699674"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90164142444927, 49.20694474410181 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "NORTHBANK APARTMENTS",
+				"ADDRESS" : "125 COLUMBIA ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "111",
+				"X" : "-122.90164142444927",
+				"Y" : "49.20694474410181"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90913017945917, 49.202075345961134 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "TRAPP BLOCK",
+				"ADDRESS" : "668 COLUMBIA ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "180",
+				"X" : "-122.90913017945917",
+				"Y" : "49.202075345961134"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90995207314833, 49.202470790722934 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE CLARKSON",
+				"ADDRESS" : "681 COLUMBIA ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "60",
+				"X" : "-122.90995207314833",
+				"Y" : "49.202470790722934"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90085114975858, 49.209151613102335 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "KINNAIRD PLACE",
+				"ADDRESS" : "65 FIRST ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "61",
+				"X" : "-122.90085114975858",
+				"Y" : "49.209151613102335"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90691057092502, 49.205546657057425 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "CROWN TOWERS",
+				"ADDRESS" : "52 FOURTH ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "77",
+				"X" : "-122.90691057092502",
+				"Y" : "49.205546657057425"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92286449826044, 49.198908694392046 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE EXCELSIOR",
+				"ADDRESS" : "8 LAGUNA CRT",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "108",
+				"X" : "-122.92286449826044",
+				"Y" : "49.198908694392046"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92314044017074, 49.1994659540306 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "LAGUNA LANDING",
+				"ADDRESS" : "10 LAGUNA CRT",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "116",
+				"X" : "-122.92314044017074",
+				"Y" : "49.1994659540306"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91240756707312, 49.19961843958205 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "INN AT THE QUAY",
+				"ADDRESS" : "900 QUAYSIDE DR",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "126",
+				"X" : "-122.91240756707312",
+				"Y" : "49.19961843958205"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91631601636362, 49.199215548459776 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "QUAYSIDE TOWER 1",
+				"ADDRESS" : "1045 QUAYSIDE DR",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "96",
+				"X" : "-122.91631601636362",
+				"Y" : "49.199215548459776"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91721664244263, 49.199263797038114 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "QUAYSIDE TOWER 2",
+				"ADDRESS" : "1065 QUAYSIDE DR",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "98",
+				"X" : "-122.91721664244263",
+				"Y" : "49.199263797038114"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91840772692859, 49.1993693652337 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "ANCHOR POINTE",
+				"ADDRESS" : "1135 QUAYSIDE DR",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "110",
+				"X" : "-122.91840772692859",
+				"Y" : "49.1993693652337"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91920798225415, 49.19860832398949 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "WESTPORT",
+				"ADDRESS" : "1150 QUAYSIDE DR",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "104",
+				"X" : "-122.91920798225415",
+				"Y" : "49.19860832398949"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91924696507121, 49.199398780494434 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "MANSIONS ON THE QUAY",
+				"ADDRESS" : "1185 QUAYSIDE DR",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "104",
+				"X" : "-122.91924696507121",
+				"Y" : "49.199398780494434"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92093175965555, 49.199580133793404 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "RIVIERA ON THE QUAY, TOWER",
+				"ADDRESS" : "1245 QUAYSIDE DR",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "203",
+				"X" : "-122.92093175965555",
+				"Y" : "49.199580133793404"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92170695381213, 49.19843868437288 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE PROMENADE",
+				"ADDRESS" : "1250 QUAYSIDE DR",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "104",
+				"X" : "-122.92170695381213",
+				"Y" : "49.19843868437288"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91779935236207, 49.19829316807582 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "QUAYSIDE WEST APARTMENT",
+				"ADDRESS" : "31 RELIANCE CRT",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "60",
+				"X" : "-122.91779935236207",
+				"Y" : "49.19829316807582"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92433832525181, 49.19984640977836 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE Q",
+				"ADDRESS" : "1 RENAISSANCE SQ",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "140",
+				"X" : "-122.92433832525181",
+				"Y" : "49.19984640977836"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92533199561008, 49.200009407281186 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "MURANO LOFTS",
+				"ADDRESS" : "10 RENAISSANCE SQ",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "146",
+				"X" : "-122.92533199561008",
+				"Y" : "49.200009407281186"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92621866846086, 49.2002160729936 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "MURANO LOFTS",
+				"ADDRESS" : "7 RIALTO CRT",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "231",
+				"X" : "-122.92621866846086",
+				"Y" : "49.2002160729936"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90819936692318, 49.203955461522995 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "QUANTUM",
+				"ADDRESS" : "39 SIXTH ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "90",
+				"X" : "-122.90819936692318",
+				"Y" : "49.203955461522995"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91191981432858, 49.205856676581895 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "ROYAL TOWERS",
+				"ADDRESS" : "140 SIXTH ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "135",
+				"X" : "-122.91191981432858",
+				"Y" : "49.205856676581895"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90956128212109, 49.20404935570767 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE POINT",
+				"ADDRESS" : "610 VICTORIA ST",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "131",
+				"X" : "-122.90956128212109",
+				"Y" : "49.20404935570767"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89796779660375, 49.22875807446755 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "BUCHANAN MEMORIAL SUNSET LODGE",
+				"ADDRESS" : "409 BLAIR AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "110",
+				"X" : "-122.89796779660375",
+				"Y" : "49.22875807446755"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91628899062052, 49.22357873341997 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "DUNWOOD PLACE",
+				"ADDRESS" : "909 COLBORNE ST",
+				"CONSTR_YR" : "2020",
+				"UNITS" : "193",
+				"X" : "-122.91628899062052",
+				"Y" : "49.22357873341997"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89328110327679, 49.2287507913886 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "SAN MARINO",
+				"ADDRESS" : "415 E COLUMBIA ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "102",
+				"X" : "-122.89328110327679",
+				"Y" : "49.2287507913886"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89895004457324, 49.2126171607743 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "PARCEL A - TOWER 1",
+				"ADDRESS" : "11 E ROYAL AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "179",
+				"X" : "-122.89895004457324",
+				"Y" : "49.2126171607743"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92345278253215, 49.21027948420833 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "CEDAR GROVE APARTMENT",
+				"ADDRESS" : "520 EIGHTH ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "56",
+				"X" : "-122.92345278253215",
+				"Y" : "49.21027948420833"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92282561811156, 49.210734296821066 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "HOLLAND HOUSE",
+				"ADDRESS" : "525 EIGHTH ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "80",
+				"X" : "-122.92282561811156",
+				"Y" : "49.210734296821066"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92474296272313, 49.21224841799344 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "DEVONSHIRE HOUSE",
+				"ADDRESS" : "621 EIGHTH ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "84",
+				"X" : "-122.92474296272313",
+				"Y" : "49.21224841799344"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92073727380009, 49.210926691528456 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "YORK HOUSE",
+				"ADDRESS" : "711 FIFTH AVE",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "124",
+				"X" : "-122.92073727380009",
+				"Y" : "49.210926691528456"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89704923007871, 49.21476462920861 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE WHITAKER",
+				"ADDRESS" : "225 FRANCIS WAY",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "72",
+				"X" : "-122.89704923007871",
+				"Y" : "49.21476462920861"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89943558451363, 49.21503091207199 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE GROVE",
+				"ADDRESS" : "250 FRANCIS WAY",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "54",
+				"X" : "-122.89943558451363",
+				"Y" : "49.21503091207199"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90409391882945, 49.21707005400795 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "FRASER MEWS",
+				"ADDRESS" : "340 GINGER DR",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "159",
+				"X" : "-122.90409391882945",
+				"Y" : "49.21707005400795"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92363085341692, 49.21526621806495 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE UPTOWNER",
+				"ADDRESS" : "615 HAMILTON ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "110",
+				"X" : "-122.92363085341692",
+				"Y" : "49.21526621806495"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92277971461624, 49.21322292527399 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "STERLING PLACE",
+				"ADDRESS" : "719 PRINCESS ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "129",
+				"X" : "-122.92277971461624",
+				"Y" : "49.21322292527399"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92279869424183, 49.21269933686165 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "7-2-8 PRINCESS",
+				"ADDRESS" : "728 PRINCESS ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "67",
+				"X" : "-122.92279869424183",
+				"Y" : "49.21269933686165"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.923720526812, 49.21271381732441 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "BERKLEY PLACE",
+				"ADDRESS" : "739 PRINCESS ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "129",
+				"X" : "-122.923720526812",
+				"Y" : "49.21271381732441"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91421913740645, 49.205836986579456 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE REGENCY",
+				"ADDRESS" : "706 QUEENS AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "112",
+				"X" : "-122.91421913740645",
+				"Y" : "49.205836986579456"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91474982701398, 49.205377274591235 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "ASHDOWN COURT APARTMENT",
+				"ADDRESS" : "720 QUEENS AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "113",
+				"X" : "-122.91474982701398",
+				"Y" : "49.205377274591235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90198567830443, 49.21518304369823 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE CARLYLE",
+				"ADDRESS" : "280 ROSS DR",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "194",
+				"X" : "-122.90198567830443",
+				"Y" : "49.21518304369823"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90678109234433, 49.20834115934084 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "ROYAL CITY APARTMENT",
+				"ADDRESS" : "225 ROYAL AVE",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "64",
+				"X" : "-122.90678109234433",
+				"Y" : "49.20834115934084"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90718630938925, 49.207270481813495 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE PEPPERTREE",
+				"ADDRESS" : "320 ROYAL AVE",
+				"CONSTR_YR" : "2017",
+				"UNITS" : "113",
+				"X" : "-122.90718630938925",
+				"Y" : "49.207270481813495"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90899156614071, 49.20627380853854 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE DOMINION",
+				"ADDRESS" : "500 ROYAL AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "118",
+				"X" : "-122.90899156614071",
+				"Y" : "49.20627380853854"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92276432842473, 49.19554165818075 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "DOCKYARDS - BUILDING 2",
+				"ADDRESS" : "202 SALTER ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "97",
+				"X" : "-122.92276432842473",
+				"Y" : "49.19554165818075"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92330499361235, 49.21418717827918 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "EDGEWATER TOWERS",
+				"ADDRESS" : "615 SEVENTH AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "80",
+				"X" : "-122.92330499361235",
+				"Y" : "49.21418717827918"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92357883349365, 49.21330080717863 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "HERITAGE HOUSE",
+				"ADDRESS" : "710 SEVENTH AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "76",
+				"X" : "-122.92357883349365",
+				"Y" : "49.21330080717863"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92479586726097, 49.213295655574875 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "HYACK HOUSE",
+				"ADDRESS" : "711 SEVENTH AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "107",
+				"X" : "-122.92479586726097",
+				"Y" : "49.213295655574875"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9245514700758, 49.21275404486682 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "GROVESNOR HOUSE",
+				"ADDRESS" : "720 SEVENTH AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "89",
+				"X" : "-122.9245514700758",
+				"Y" : "49.21275404486682"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91991770738754, 49.21389927844943 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "LEGION MANOR",
+				"ADDRESS" : "505 SIXTH AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "129",
+				"X" : "-122.91991770738754",
+				"Y" : "49.21389927844943"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92459218672052, 49.21050616472611 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "PARKVIEW TOWER NORTH",
+				"ADDRESS" : "820 SIXTH AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "113",
+				"X" : "-122.92459218672052",
+				"Y" : "49.21050616472611"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92124435894667, 49.213507489811974 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE WOODWARD",
+				"ADDRESS" : "612 SIXTH ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "118",
+				"X" : "-122.92124435894667",
+				"Y" : "49.213507489811974"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92494239310359, 49.19613809707861 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE RESIDENCES BY THE RIVER",
+				"ADDRESS" : "83 STAR CRES",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "70",
+				"X" : "-122.92494239310359",
+				"Y" : "49.19613809707861"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92977666843137, 49.20759808666466 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "KINGS GATE",
+				"ADDRESS" : "519 TWELFTH ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "114",
+				"X" : "-122.92977666843137",
+				"Y" : "49.20759808666466"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9147152159, 49.202517238846916 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "NEWS",
+				"ADDRESS" : "813 AGNES ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "224",
+				"X" : "-122.9147152159",
+				"Y" : "49.202517238846916"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9152038236986, 49.20161652664826 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE HYACK",
+				"ADDRESS" : "838 AGNES ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "99",
+				"X" : "-122.9152038236986",
+				"Y" : "49.20161652664826"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92049259720777, 49.212215820471094 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE BELMONT TOWERS",
+				"ADDRESS" : "615 BELMONT ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "139",
+				"X" : "-122.92049259720777",
+				"Y" : "49.212215820471094"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9155924122945, 49.222941338148686 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "ROSS TOWER",
+				"ADDRESS" : "45 CLUTE ST",
+				"CONSTR_YR" : "2020",
+				"UNITS" : "101",
+				"X" : "-122.9155924122945",
+				"Y" : "49.222941338148686"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92476305875489, 49.21516512999004 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE DONCASTER",
+				"ADDRESS" : "620 EIGHTH AVE",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "54",
+				"X" : "-122.92476305875489",
+				"Y" : "49.21516512999004"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92567926964257, 49.215921374319514 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE THORNEBRIDGE",
+				"ADDRESS" : "649 EIGHTH AVE",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "144",
+				"X" : "-122.92567926964257",
+				"Y" : "49.215921374319514"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91946699995081, 49.20702694002963 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "KENNEDY PLACE",
+				"ADDRESS" : "310 EIGHTH ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "51",
+				"X" : "-122.91946699995081",
+				"Y" : "49.20702694002963"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92188111097906, 49.202927861688934 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "ELMWOOD APARTMENT",
+				"ADDRESS" : "211 ELEVENTH ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "97",
+				"X" : "-122.92188111097906",
+				"Y" : "49.202927861688934"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92318835312278, 49.203142939896225 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "QUEEN'S COVE",
+				"ADDRESS" : "220 ELEVENTH ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "74",
+				"X" : "-122.92318835312278",
+				"Y" : "49.203142939896225"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9288939597919, 49.20760647176891 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "WEST COAST APARTMENT",
+				"ADDRESS" : "520 ELEVENTH ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "51",
+				"X" : "-122.9288939597919",
+				"Y" : "49.20760647176891"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92850260156145, 49.20820599307212 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "CHELSEA PLACE",
+				"ADDRESS" : "525 ELEVENTH ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "73",
+				"X" : "-122.92850260156145",
+				"Y" : "49.20820599307212"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9234274010501, 49.209655734956904 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE CARM-ELLE APARTMENT",
+				"ADDRESS" : "815 FIFTH AVE",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "60",
+				"X" : "-122.9234274010501",
+				"Y" : "49.209655734956904"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92124272326532, 49.2073708860199 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "SAN MATEO APARTMENT",
+				"ADDRESS" : "814 FOURTH AVE",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "54",
+				"X" : "-122.92124272326532",
+				"Y" : "49.2073708860199"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92342979387837, 49.21462011134093 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "EDGEWATER HAMILTON",
+				"ADDRESS" : "610 HAMILTON ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "89",
+				"X" : "-122.92342979387837",
+				"Y" : "49.21462011134093"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92414971003576, 49.21421751673436 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "NO NAME 1",
+				"ADDRESS" : "700 HAMILTON ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "99",
+				"X" : "-122.92414971003576",
+				"Y" : "49.21421751673436"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92512004538575, 49.21375210334682 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "GENERATIONS",
+				"ADDRESS" : "720 HAMILTON ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "84",
+				"X" : "-122.92512004538575",
+				"Y" : "49.21375210334682"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92592116194042, 49.21329519265456 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE STATESMAN",
+				"ADDRESS" : "740 HAMILTON ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "88",
+				"X" : "-122.92592116194042",
+				"Y" : "49.21329519265456"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92729497562536, 49.20807433886971 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "PRINCETON PLACE (FORMERLYCHILCOTIN COURT",
+				"ADDRESS" : "1021 HOWAY ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "108",
+				"X" : "-122.92729497562536",
+				"Y" : "49.20807433886971"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8959414252961, 49.21498354870794 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "PALACE QUAY",
+				"ADDRESS" : "71 JAMIESON CRT",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "220",
+				"X" : "-122.8959414252961",
+				"Y" : "49.21498354870794"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89521043241837, 49.21533988901902 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "ROYAL CITY MANOR",
+				"ADDRESS" : "77 JAMIESON CRT",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "166",
+				"X" : "-122.89521043241837",
+				"Y" : "49.21533988901902"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92060007311667, 49.2071848047832 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "WESLEY MANOR",
+				"ADDRESS" : "815 KENNEDY ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "62",
+				"X" : "-122.92060007311667",
+				"Y" : "49.2071848047832"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92138683179532, 49.20639725443822 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "VILLA MARGARITA",
+				"ADDRESS" : "320 NINTH ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "56",
+				"X" : "-122.92138683179532",
+				"Y" : "49.20639725443822"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92001835996157, 49.20259100545918 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "AMARA TERRACE",
+				"ADDRESS" : "1026 QUEENS AVE",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "97",
+				"X" : "-122.92001835996157",
+				"Y" : "49.20259100545918"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8958368469963, 49.218070798110304 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "FRASERVIEW PARK 7",
+				"ADDRESS" : "68 RICHMOND ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "51",
+				"X" : "-122.8958368469963",
+				"Y" : "49.218070798110304"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91528878540183, 49.2029089349133 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "NEWS NORTH",
+				"ADDRESS" : "814 ROYAL AVE",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "123",
+				"X" : "-122.91528878540183",
+				"Y" : "49.2029089349133"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91671770668748, 49.20202460977781 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE ROYALTON",
+				"ADDRESS" : "850 ROYAL AVE",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "75",
+				"X" : "-122.91671770668748",
+				"Y" : "49.20202460977781"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89489948726563, 49.22816917444753 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "SHERBROOKE MANOR",
+				"ADDRESS" : "329 SHERBROOKE ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "60",
+				"X" : "-122.89489948726563",
+				"Y" : "49.22816917444753"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92191158545457, 49.208275449769744 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "TANTUS TOWERS",
+				"ADDRESS" : "810 ST. ANDREWS ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "117",
+				"X" : "-122.92191158545457",
+				"Y" : "49.208275449769744"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91751372703429, 49.20166817906036 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "PLAZA POINTE",
+				"ADDRESS" : "98 TENTH ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "72",
+				"X" : "-122.91751372703429",
+				"Y" : "49.20166817906036"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91803646576898, 49.203075089721665 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "ROYAL VISTA",
+				"ADDRESS" : "121 TENTH ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "108",
+				"X" : "-122.91803646576898",
+				"Y" : "49.203075089721665"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9189760300791, 49.20831579030978 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "CASA BERNELLO",
+				"ADDRESS" : "330 ASH ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "60",
+				"X" : "-122.9189760300791",
+				"Y" : "49.20831579030978"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92152713956719, 49.21108788127294 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "NASSAU HOUSE",
+				"ADDRESS" : "511 ASH ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "69",
+				"X" : "-122.92152713956719",
+				"Y" : "49.21108788127294"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92193534602481, 49.211391608480334 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "WESTWOOD TOWERS",
+				"ADDRESS" : "527 ASH ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "58",
+				"X" : "-122.92193534602481",
+				"Y" : "49.211391608480334"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93032585451479, 49.20435861357063 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "RIVER VALLEY",
+				"ADDRESS" : "1310 CARIBOO ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "60",
+				"X" : "-122.93032585451479",
+				"Y" : "49.20435861357063"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91457788042882, 49.22337756092699 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "ROTARY TOWER",
+				"ADDRESS" : "25 CLUTE ST",
+				"CONSTR_YR" : "2020",
+				"UNITS" : "101",
+				"X" : "-122.91457788042882",
+				"Y" : "49.22337756092699"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91511223410089, 49.223256574486356 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "KIWANIS INTERMEDIATE CARE CENTRE",
+				"ADDRESS" : "35 CLUTE ST",
+				"CONSTR_YR" : "2020",
+				"UNITS" : "74",
+				"X" : "-122.91511223410089",
+				"Y" : "49.223256574486356"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91466856942307, 49.22135557677833 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "EIGHTH AVENUE WEST BUILDING A+B",
+				"ADDRESS" : "55 EIGHTH AVE",
+				"CONSTR_YR" : "2020",
+				"UNITS" : "73",
+				"X" : "-122.91466856942307",
+				"Y" : "49.22135557677833"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92548658456619, 49.21298670232754 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE DIPLOMAT",
+				"ADDRESS" : "707 EIGHTH ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "54",
+				"X" : "-122.92548658456619",
+				"Y" : "49.21298670232754"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92669910355079, 49.20587364332973 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "MON TRU MANOR",
+				"ADDRESS" : "420 ELEVENTH ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "59",
+				"X" : "-122.92669910355079",
+				"Y" : "49.20587364332973"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9183985353397, 49.20892879066458 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "ROBYN APARTMENT",
+				"ADDRESS" : "700 FOURTH AVE",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "56",
+				"X" : "-122.9183985353397",
+				"Y" : "49.20892879066458"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91300603461227, 49.22457876456355 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "MASSEY PLACE",
+				"ADDRESS" : "855 MCBRIDE BLVD",
+				"CONSTR_YR" : "2020",
+				"UNITS" : "53",
+				"X" : "-122.91300603461227",
+				"Y" : "49.22457876456355"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91237064748485, 49.22017575461651 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "700 PARK",
+				"ADDRESS" : "700 PARK CRES",
+				"CONSTR_YR" : "2020",
+				"UNITS" : "89",
+				"X" : "-122.91237064748485",
+				"Y" : "49.22017575461651"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90236475255448, 49.21054111221276 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "ROYAL CLINTON",
+				"ADDRESS" : "55 ROYAL AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "59",
+				"X" : "-122.90236475255448",
+				"Y" : "49.21054111221276"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90993066590568, 49.20574912584391 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "HARBOUR VIEW APARTMENTS",
+				"ADDRESS" : "550 ROYAL AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "54",
+				"X" : "-122.90993066590568",
+				"Y" : "49.20574912584391"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91126392515847, 49.22341361829655 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE BROCKTON",
+				"ADDRESS" : "808 SANGSTER PL",
+				"CONSTR_YR" : "2020",
+				"UNITS" : "67",
+				"X" : "-122.91126392515847",
+				"Y" : "49.22341361829655"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92268799191943, 49.21380001568908 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "CHARTERHOUSE",
+				"ADDRESS" : "620 SEVENTH AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "72",
+				"X" : "-122.92268799191943",
+				"Y" : "49.21380001568908"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.9240776571531, 49.21375928748666 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "EDGEWATER PLAZA",
+				"ADDRESS" : "707 SEVENTH AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "94",
+				"X" : "-122.9240776571531",
+				"Y" : "49.21375928748666"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91541612669462, 49.20682890524334 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "EL PRESIDENTE",
+				"ADDRESS" : "220 SEVENTH ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "63",
+				"X" : "-122.91541612669462",
+				"Y" : "49.20682890524334"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91767968592569, 49.208685520176495 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "WESTCOURT MANOR",
+				"ADDRESS" : "322 SEVENTH ST",
+				"CONSTR_YR" : "2019",
+				"UNITS" : "53",
+				"X" : "-122.91767968592569",
+				"Y" : "49.208685520176495"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91473648525047, 49.208339699302684 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "TRIDECCA",
+				"ADDRESS" : "258 SIXTH ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "64",
+				"X" : "-122.91473648525047",
+				"Y" : "49.208339699302684"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92141459585298, 49.214402726332516 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "EDGEWATER CENTRE",
+				"ADDRESS" : "633 SIXTH ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "72",
+				"X" : "-122.92141459585298",
+				"Y" : "49.214402726332516"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91024530912652, 49.220059882803646 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE WESTERLY",
+				"ADDRESS" : "15 SMOKEY SMITH PL",
+				"CONSTR_YR" : "2020",
+				"UNITS" : "52",
+				"X" : "-122.91024530912652",
+				"Y" : "49.220059882803646"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.90974477020556, 49.21958111154128 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "CROFTON PLACE",
+				"ADDRESS" : "18 SMOKEY SMITH PL",
+				"CONSTR_YR" : "2020",
+				"UNITS" : "54",
+				"X" : "-122.90974477020556",
+				"Y" : "49.21958111154128"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.93126703182782, 49.20553730044282 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "FRASERVIEW APARTMENTS",
+				"ADDRESS" : "514 THIRTEENTH ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "51",
+				"X" : "-122.93126703182782",
+				"Y" : "49.20553730044282"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8941267415451, 49.22914126127301 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "SAPPERTON TERRACE COOPERATIVE",
+				"ADDRESS" : "318 WARD ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "51",
+				"X" : "-122.8941267415451",
+				"Y" : "49.22914126127301"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89454787554722, 49.22961400643999 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "MANDALAY TERRACE",
+				"ADDRESS" : "325 WARD ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "56",
+				"X" : "-122.89454787554722",
+				"Y" : "49.22961400643999"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89883967501383, 49.213295366228955 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "232 ROSS DRIVE",
+				"ADDRESS" : "232 ROSS DR",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "59",
+				"X" : "-122.89883967501383",
+				"Y" : "49.213295366228955"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.91252711214916, 49.22416428331302 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "MASSEY PLACE",
+				"ADDRESS" : "841 MCBRIDE BLVD",
+				"CONSTR_YR" : "2020",
+				"UNITS" : "66",
+				"X" : "-122.91252711214916",
+				"Y" : "49.22416428331302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.8896239412819, 49.22738171049156 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "COPPERSTONE",
+				"ADDRESS" : "240 SHERBROOKE ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "231",
+				"X" : "-122.8896239412819",
+				"Y" : "49.22738171049156"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.89002100149575, 49.22531148726236 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "THE ANVIL",
+				"ADDRESS" : "200 KEARY ST",
+				"CONSTR_YR" : "2018",
+				"UNITS" : "100",
+				"X" : "-122.89002100149575",
+				"Y" : "49.22531148726236"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.92462568354942, 49.20997782403955 ]
+			},
+			"properties" : {
+				"FTYPE" : "MULTIPLE DWELLING",
+				"NAME" : "PARKVIEW TOWER SOUTH",
+				"ADDRESS" : "820 SIXTH AVE",
+				"CONSTR_YR" : "2018",
+				"UNITS" : " ",
+				"X" : "-122.92462568354942",
+				"Y" : "49.20997782403955"
+			}
+		}
+	]
+}
