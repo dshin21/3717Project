@@ -13,5 +13,4 @@ public class DB {
         FiberNetworkLocationThread fiberNetworkLocationThread = new FiberNetworkLocationThread();
         fiberNetworkLocationThread.new GetFiberNetWorkLocations().execute();
     }
-
 }
