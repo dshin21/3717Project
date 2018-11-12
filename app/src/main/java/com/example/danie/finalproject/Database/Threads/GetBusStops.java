@@ -42,7 +42,6 @@ public class GetBusStops extends AsyncTask<Void, Void, Void> {
                     values.put("NAME", name);
                     values.put("LAT", lat);
                     values.put("LNG", lng);
-                    BusStop.busStops.add(new BusStop(name, Double.parseDouble(lat), Double.parseDouble(lng)));
                     long id = db.insert("BUS_STOPS", null, values);
                 }
             } catch (final JSONException e) {

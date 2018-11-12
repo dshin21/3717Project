@@ -1,12 +1,15 @@
 package com.example.danie.finalproject.Database;
 
 import android.content.Context;
+import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.os.AsyncTask;
 
 import com.example.danie.finalproject.Database.Threads.GetBusStops;
 import com.example.danie.finalproject.Database.Threads.GetParks;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class DB extends SQLiteOpenHelper {
     private static final String DB_NAME = "COMP3717.sqlite";
@@ -22,7 +25,15 @@ public class DB extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase db) {
-        new initDB().execute();
+        //BUS_STOPS -> FIBER_NETWORK -> MAJOR_SHOPPING
+        //PARKS -> SKYTRAIN_STATIONS_PTS -> SPORTS_FIELDS
+        db.execSQL("DROP TABLE IF EXISTS BUS_STOPS");
+        db.execSQL(createTableBUS_STOPS());
+        new GetBusStops(db).execute();
+
+        db.execSQL("DROP TABLE IF EXISTS PARKS");
+        db.execSQL(DB.createTablePARKS());
+        new GetParks(db).execute();
     }
 
     @Override
@@ -102,34 +113,38 @@ public class DB extends SQLiteOpenHelper {
         return sql;
     }
 
-    public class initDB extends AsyncTask<Void, Void, Void> {
+    public List<String> getName(String tableName) {
+        String selectQuery = "SELECT * FROM " + tableName;
 
-        public initDB() {
+        return selectHelper(selectQuery, "NAME");
+    }
+
+    public List<String> getLat(String tableName) {
+        String selectQuery = "SELECT * FROM " + tableName;
+
+        return selectHelper(selectQuery, "LAT");
+    }
+
+    public List<String> getLng(String tableName) {
+        String selectQuery = "SELECT * FROM " + tableName;
+
+        return selectHelper(selectQuery, "LNG");
+    }
+
+    public List<String> selectHelper(String selectQuery, String colName) {
+        List<String> temp = new ArrayList<>();
+
+        SQLiteDatabase db = this.getWritableDatabase();
+        Cursor cursor = db.rawQuery(selectQuery, null);
+
+        if (cursor.moveToFirst()) {
+            do {
+                temp.add(cursor.getString(cursor.getColumnIndex(colName)));
+            } while (cursor.moveToNext());
         }
 
-        @Override
-        protected void onPreExecute() {
-            super.onPreExecute();
-        }
+        db.close();
 
-        @Override
-        protected Void doInBackground(Void... arg0) {
-            //BUS_STOPS -> FIBER_NETWORK -> MAJOR_SHOPPING
-            //PARKS -> SKYTRAIN_STATIONS_PTS -> SPORTS_FIELDS
-
-            db.execSQL("DROP TABLE IF EXISTS BUS_STOPS");
-            db.execSQL(createTableBUS_STOPS());
-            new GetBusStops(db).execute();
-
-            db.execSQL("DROP TABLE IF EXISTS PARKS");
-            db.execSQL(DB.createTablePARKS());
-            new GetParks(db).execute();
-            return null;
-        }
-
-        @Override
-        protected void onPostExecute(Void result) {
-            super.onPostExecute(result);
-        }
+        return temp;
     }
 }
