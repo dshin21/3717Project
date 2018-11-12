@@ -5,6 +5,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.os.AsyncTask;
 
 import com.example.danie.finalproject.Database.DB;
+import com.example.danie.finalproject.Database.Entities.BusStop;
 import com.example.danie.finalproject.Database.Utils.HttpHandler;
 
 import org.json.JSONArray;
@@ -35,9 +36,13 @@ public class GetBusStops extends AsyncTask<Void, Void, Void> {
                 for (int i = 0; i < countriesJSONArray.length(); i++) {
                     JSONObject c = countriesJSONArray.getJSONObject(i);
                     ContentValues values = new ContentValues();
-                    values.put("NAME", c.getString("name"));
-                    values.put("LAT", c.getString("lat"));
-                    values.put("LNG", c.getString("lng"));
+                    String name = c.getString("name");
+                    String lat = c.getString("lat");
+                    String lng = c.getString("lng");
+                    values.put("NAME", name);
+                    values.put("LAT", lat);
+                    values.put("LNG", lng);
+                    BusStop.busStops.add(new BusStop(name, Double.parseDouble(lat), Double.parseDouble(lng)));
                     long id = db.insert("BUS_STOPS", null, values);
                 }
             } catch (final JSONException e) {

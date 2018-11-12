@@ -3,12 +3,10 @@ package com.example.danie.finalproject.Database;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.os.AsyncTask;
 
 import com.example.danie.finalproject.Database.Threads.GetBusStops;
 import com.example.danie.finalproject.Database.Threads.GetParks;
-import com.example.danie.finalproject.Database.Threads.GetSkytrainStationPts;
-import com.example.danie.finalproject.Database.Threads.GetSportsFields;
-
 
 public class DB extends SQLiteOpenHelper {
     private static final String DB_NAME = "COMP3717.sqlite";
@@ -24,16 +22,7 @@ public class DB extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase db) {
-        //BUS_STOPS -> FIBER_NETWORK -> MAJOR_SHOPPING -> PARKS
-        //SKYTRAIN_STATIONS_PTS -> SPORTS_FIELDS
-        db.execSQL("DROP TABLE IF EXISTS BUS_STOPS");
-        db.execSQL(createTableBUS_STOPS());
-        new GetBusStops(db).execute();
-
-        db.execSQL("DROP TABLE IF EXISTS SKYTRAIN_STATIONS_PTS");
-        db.execSQL(createTableSKYTRAIN_STATIONS_PTS());
-        new GetSkytrainStationPts(db).execute();
-
+        new initDB().execute();
     }
 
     @Override
@@ -111,5 +100,36 @@ public class DB extends SQLiteOpenHelper {
         sql += ");";
 
         return sql;
+    }
+
+    public class initDB extends AsyncTask<Void, Void, Void> {
+
+        public initDB() {
+        }
+
+        @Override
+        protected void onPreExecute() {
+            super.onPreExecute();
+        }
+
+        @Override
+        protected Void doInBackground(Void... arg0) {
+            //BUS_STOPS -> FIBER_NETWORK -> MAJOR_SHOPPING
+            //PARKS -> SKYTRAIN_STATIONS_PTS -> SPORTS_FIELDS
+
+            db.execSQL("DROP TABLE IF EXISTS BUS_STOPS");
+            db.execSQL(createTableBUS_STOPS());
+            new GetBusStops(db).execute();
+
+            db.execSQL("DROP TABLE IF EXISTS PARKS");
+            db.execSQL(DB.createTablePARKS());
+            new GetParks(db).execute();
+            return null;
+        }
+
+        @Override
+        protected void onPostExecute(Void result) {
+            super.onPostExecute(result);
+        }
     }
 }

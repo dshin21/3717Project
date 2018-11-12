@@ -50,8 +50,5 @@ public class GetMajorShopping extends AsyncTask<Void, Void, Void> {
     protected void onPostExecute(Void result) {
         // make objects?
         super.onPostExecute(result);
-        db.execSQL("DROP TABLE IF EXISTS PARKS");
-        db.execSQL(DB.createTablePARKS());
-        new GetParks(db).execute();
     }
 }

@@ -50,5 +50,8 @@ public class GetParks extends AsyncTask<Void, Void, Void> {
     protected void onPostExecute(Void result) {
         // make objects?
         super.onPostExecute(result);
+        db.execSQL("DROP TABLE IF EXISTS SKYTRAIN_STATIONS_PTS");
+        db.execSQL(DB.createTableSKYTRAIN_STATIONS_PTS());
+        new GetSkytrainStationPts(db).execute();
     }
 }
