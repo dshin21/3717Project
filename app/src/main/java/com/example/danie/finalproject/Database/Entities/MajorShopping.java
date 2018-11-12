@@ -1,7 +1,15 @@
 package com.example.danie.finalproject.Database.Entities;
 
-public class FiberNetworkLocation {
-    public FiberNetworkLocation(String name, double lat, double lng) {
+import java.util.ArrayList;
+
+public class MajorShopping {
+    public static ArrayList<MajorShopping> majorShoppings = new ArrayList<>();
+
+    private String name;
+    private double lat;
+    private double lng;
+
+    public MajorShopping(String name, double lat, double lng) {
         this.name = name;
         this.lat = lat;
         this.lng = lng;
@@ -30,8 +38,4 @@ public class FiberNetworkLocation {
     public void setLng(double lng) {
         this.lng = lng;
     }
-
-    private String name;
-    private double lat;
-    private double lng;
 }

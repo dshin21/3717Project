@@ -2,14 +2,14 @@ package com.example.danie.finalproject.Database.Entities;
 
 import java.util.ArrayList;
 
-public class BusStop {
-    public static ArrayList<BusStop> busStops = new ArrayList<>();
+public class FiberNetwork {
+    public static ArrayList<FiberNetwork> fiberNetworks = new ArrayList<>();
 
     private String name;
     private double lat;
     private double lng;
 
-    public BusStop(String name, double lat, double lng) {
+    public FiberNetwork(String name, double lat, double lng) {
         this.name = name;
         this.lat = lat;
         this.lng = lng;
